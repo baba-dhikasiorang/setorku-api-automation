@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Base URL Web Resources Setorku API</description>
+      <initValue>'https://ts.setorku.com/Setorku/webresources'</initValue>
+      <name>baseUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Secret Key for SHA1 Signature Calculation</description>
+      <initValue>'IDS!2345'</initValue>
+      <name>secretKey</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
