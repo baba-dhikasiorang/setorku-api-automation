@@ -1,0 +1,17 @@
+# Katalon Studio build and temporary files
+bin/
+Libs/
+Reports/
+.cache/
+settings/
+.classpath
+.project
+*.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Gradle temporary files
+.gradle/
+build/
